@@ -1,0 +1,4 @@
+*.class
+target/WinReg-0.1.jar
+target/maven-archiver/pom.properties
+*.netbeans_automatic_build
